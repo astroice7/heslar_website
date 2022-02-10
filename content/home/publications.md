@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 20
 
 title: Publications
 subtitle: ''
@@ -20,7 +20,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: 'Heslar'
+    author: ''
     exclude_featured: false
     exclude_future: false
     exclude_past: false

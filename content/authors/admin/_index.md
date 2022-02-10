@@ -64,6 +64,6 @@ email: "hesl6778@vandals.uidaho.edu"
 highlight_name: true
 ---
 
-Michael Heslar is a planetary science graduate student at the University of Idaho. His research interests include planetary oceanography and atmospheric science. He works on projects studying Cassini VIMS observations of sunglint, haze, and the limb of Saturn's largest moon, Titan...
+I am a planetary science graduate student at the University of Idaho. My research interests include planetary oceanography and atmospheric phenomena. I work on projects analyzing Cassini VIMS observations of sunglint, haze, and the atmospheric limb of Saturn's largest moon, Titan.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
